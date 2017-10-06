@@ -4,7 +4,7 @@
   "description": "Node.js static demo",
   "main": "src/app.js",
   "bin": {
-      "anydoor1": "bin/anydoor1"
+      "anydoor": "bin/anydoor"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
