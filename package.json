@@ -1,10 +1,10 @@
 {
-  "name": "anyDoor",
-  "version": "0.1.0",
+  "name": "anydoor1",
+  "version": "0.1.2",
   "description": "Node.js static demo",
   "main": "src/app.js",
   "bin": {
-      "anydoor": "bin/anydoor"
+      "anydoor1": "bin/anydoor1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
