@@ -1,0 +1,29 @@
+{
+  "name": "anyDoor",
+  "version": "0.1.0",
+  "description": "Node.js static demo",
+  "main": "src/app.js",
+  "bin": {
+      "anydoor": "bin/anydoor"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m186/anyDoor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m186/anyDoor/issues"
+  },
+  "homepage": "https://github.com/m186/anyDoor#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "eslint": "^4.8.0",
+    "handlebars": "^4.0.10",
+    "yargs": "^9.0.1"
+  }
+}
